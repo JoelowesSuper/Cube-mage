@@ -2,7 +2,7 @@
 
 # 🎩 Cube Mage
 
-**Welcome to the official repository for *Cube Mage*!**   
+**Welcome to the official repository for *Cube Mage*.**   
 This is the place where I keep all the updates and files regarding this game. Cube mage is a 2D top down mage game.
 It has no release date yet but i'll expect it to be published somewhere in late 2025.
 
